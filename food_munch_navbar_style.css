@@ -1,0 +1,157 @@
+.logo{
+    height: 40px;
+    width: 40px;
+}
+.banner-section-bg-container{
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png ");
+}
+.banner-heading{
+    color:white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+.banner-caption{
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+.custom-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.custom-outline-button{
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #d0b200;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+}
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.wcu-section-description{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-card-img{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-title{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.offers{
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic;
+}
+.wcu-card-description {
+    color: black;
+}
+.ems-heading{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+.ems-card{
+    border-radius: 20px;
+}
+.ems-card-img{
+    width: 100%;
+    border-radius: 20px;
+}
+.ems-card-head{
+    font-size: 20px;
+}
+.ems-view-all{
+    color:#d0b200;
+}
+.healthy-food-section{
+    background-color: rgb(249, 251, 254); 
+    
+}
+.hfs-img{
+    width: 100%;
+}
+.hfs-heading{
+ color: #323f4b;
+ font-size: 30px;
+ font-weight: bold;
+}
+.hfs-content{
+    color: #5a7184;
+}
+.hfs-button{
+    background-color: #d0b200;
+    color: white;
+    padding: auto;
+    border-radius: 10px;
+    border-color: #d0b200;
+    height: 50px;
+    width: 150px;
+}
+.daps-images{
+    padding: 20px;
+}
+.daps-logo{
+    height: 40px;
+}
+.thanking-customers-section{
+    background-image: radial-gradient(#fff8db,#fae38c);
+}
+.tcs-head{
+    font-weight: bold;
+ 
+       font-size: 30px;
+}
+.tcs-para{
+    color: #5a7184;
+}
+.tcs-img{
+    width: 100%;
+}
+.bis-icon-container{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+}
+.bis-icon{
+    color: #d0b200;
+    font-size: 35px;
+}
